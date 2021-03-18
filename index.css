@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    background-color: darkgreen;
+    text-align: center;
+}
+.divImagen img{
+    margin-top: 10%;
+    width: 50%;
+}
+.divTexto{
+    width: 100%;
+}
+.divContenedor{
+    background-color: azure;
+    display: inline-block;
+    margin: 3% 2%;
+    width: 20%;
+}
